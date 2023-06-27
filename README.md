@@ -1,6 +1,5 @@
 # min-dles.github.io
 
-Resume for application to Prime Digital Academy.
-To view the final product, visit:
+Thanks for stopping by my github! This repo is where I host my resume. To view the final product, visit:
 
 <https://min-dles.github.io/>
