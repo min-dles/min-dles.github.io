@@ -42,14 +42,21 @@ a#linkedin-contact:hover {
     font-size: 16px;
 }
 
+.contact-me {
+    color: black;
+    text-decoration: underline;
+}
+
 nav a:hover,
-.work-links:hover {
+.work-links:hover,
+.contact-me:hover {
     background-color: black;
     color: rgb(188, 141, 238);
 }
 
 .nav-links:focus,
-.nav-links:active {
+.nav-links:active,
+.contact-me:focus {
     outline: 5px solid black;
 }
 
